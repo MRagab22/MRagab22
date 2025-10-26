@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali </h1>
-<h3 align="center"> Software Testing Engineer from Egypt</h3>
+<h3 align="center"> Software Testing Engineer </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MRagab22&label=Profile%20views&color=0e75b6&style=flat" alt="MRagab22" />
