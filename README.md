@@ -6,7 +6,6 @@
 </p>
 
 - 🌱 I’m currently learning **Test Automation**
-- 📝 I regularly write technical posts on my LinkedIn profile: [Mohamed Ali Ragab](https://www.linkedin.com/in/mohamed-ali-ragab-73a51024b)
 - 📫 How to reach me **mohamed.ali.ragab22@gmail.com**
 - 📍 Location **Cairo, Egypt**
 
