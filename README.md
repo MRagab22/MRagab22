@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali Ragab</h1>
-<h3 align="center">A dedicated Software Testing Engineer from Egypt, passionate about ensuring software quality and embracing new challenges.</h3>
+<h3 align="center">A passionate Software Engineer and Software Testing Engineer from Egypt, always happy to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MOHAMEDRAGEB2020&label=Profile%20views&color=0e75b6&style=flat" alt="MOHAMEDRAGEB2020" /> </p>
 
-- 🌱 I’m currently learning **Automation Testing and API Validation**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MOHAMEDRAGEB2020](https://github.com/MOHAMEDRAGEB2020)
+- 🌱 I’m currently learning **Test Automation**
 
 - 📫 How to reach me **mohamed.ali.ragab22@gmail.com**
-
-- 📄 Know about my experiences through my CV [https://drive.google.com/file/d/1hZhUFgF4Eecv-pHXX8FP2eVcrcOfqwM7/view?usp=sharing](https://drive.google.com/file/d/1hZhUFgF4Eecv-pHXX8FP2eVcrcOfqwM7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
