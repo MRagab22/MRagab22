@@ -5,21 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=MRagab22&label=Profile%20views&color=0e75b6&style=flat" alt="MRagab22" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MRagab22" alt="MRagab22" />
-  </a>
-</p>
-
 - 🌱 I’m currently learning **Test Automation**
-- 📝 I regularly write technical posts on my LinkedIn profile [https://www.linkedin.com/in/mohamed-ali-ragab-73a51024b](https://www.linkedin.com/in/mohamed-ali-ragab-73a51024b)
+- 📝 I regularly write technical posts on my LinkedIn profile: [Mohamed Ali Ragab](https://www.linkedin.com/in/mohamed-ali-ragab-73a51024b)
 - 📫 How to reach me **mohamed.ali.ragab22@gmail.com**
 - 📍 Location **Cairo, Egypt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-ali-ragab-73a51024b" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /> LinkedIn
   </a>
 </p>
 
