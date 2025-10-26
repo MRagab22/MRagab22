@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali Ragab</h1>
 <h3 align="center">A passionate Software Testing Engineer from Egypt, always happy to learn new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MOHAMEDRAGEB2020&label=Profile%20views&color=0e75b6&style=flat" alt="MOHAMEDRAGEB2020" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MRagab22&label=Profile%20views&color=0e75b6&style=flat" alt="MRagab22" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MOHAMEDRAGEB2020" alt="MOHAMEDRAGEB2020" /></a> </p>
 
