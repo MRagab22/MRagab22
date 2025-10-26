@@ -6,8 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MOHAMEDRAGEB2020" alt="MOHAMEDRAGEB2020" /></a> </p>
 
 - 🌱 I’m currently learning **Test Automation**
-- 👨‍💻 All of my projects are available at [https://github.com/MOHAMEDRAGEB2020?tab=repositories](https://github.com/MOHAMEDRAGEB2020?tab=repositories)
-- 💬 Ask me about **Manual Testing, API Testing, Automation Testing, ISTQB Principles**
 - 📝 I regularly write technical posts on my LinkedIn profile [https://www.linkedin.com/in/mohamed-ali-ragab-73a51024b](https://www.linkedin.com/in/mohamed-ali-ragab-73a51024b)
 - 📫 How to reach me **mohamed.ali.ragab22@gmail.com**
 - 📍 Location **Cairo, Egypt**
