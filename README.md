@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ali Ragab</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ali </h1>
 <h3 align="center">A passionate Software Testing Engineer from Egypt, always happy to learn new things.</h3>
 
 <p align="left">
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-ali-ragab-73a51024b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ali-ragab" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/mohamed-ali-ragab-73a51024b" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
