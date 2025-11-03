@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali </h1>
 <h3 align="center"> Software Testing Engineer </h3>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MRagab22&label=Profile%20views&color=0e75b6&style=flat" alt="MRagab22" />
 </p>
 
-- 🌱 I’m currently learning **Test Automation**
+- 🌱 I'm currently learning **Test Automation**
 - 📫 How to reach me **mohamed.ali.ragab22@gmail.com**
 - 📍 Location **Cairo, Egypt**
 
@@ -32,8 +31,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRagab22&show_icons=true&locale=en&layout=compact" alt="MRagab22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRagab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="MRagab22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MRagab22&show_icons=true&locale=en" alt="MRagab22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MRagab22&show_icons=true&locale=en&theme=dark" alt="MRagab22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MRagab22&" alt="MRagab22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MRagab22&theme=dark" alt="MRagab22" /></p>
