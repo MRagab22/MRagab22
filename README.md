@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ali </h1>
-<h3 align="center"> Software Testing Engineer </h3>
+<h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
+<h3 align="center">Software Testing Engineer</h3>
+
+<p align="center">
+  <strong>Bachelor's Degree in Computers and Artificial Intelligence</strong><br>
+  Department of Computer Science
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MRagab22&label=Profile%20views&color=0e75b6&style=flat" alt="MRagab22" />
 </p>
