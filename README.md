@@ -3,7 +3,6 @@
 
 <p align="center">
   <strong>Bachelor's Degree in Computers and Artificial Intelligence</strong><br>
-  Department of Computer Science
 </p>
 
 <p align="left">
