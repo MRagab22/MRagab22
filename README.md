@@ -2,7 +2,7 @@
 <h3 align="center">Software Testing Engineer</h3>
 
 <p align="center">
-  <strong>Bachelor's Degree in Computers and Artificial Intelligence</strong><br>
+  <strong>Bachelor's Degree in Computers & Artificial Intelligence</strong><br>
 </p>
 
 <p align="left">
