@@ -40,5 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MRagab22&show_icons=true&locale=en&theme=dark" alt="MRagab22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MRagab22&theme=dark" alt="MRagab22" /></p>
-
-الداش بورد التالته دى ساعات مش بتفتح مش بتبقى ظاهرة
