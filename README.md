@@ -3,6 +3,7 @@
 <p align="center">
   <strong>Bachelor's Degree in Computers & Artificial Intelligence</strong><br>
 </p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MRagab22&label=Profile%20views&color=0e75b6&style=flat" alt="MRagab22" />
 </p>
@@ -34,11 +35,11 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRagab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="MRagab22" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=MRagab22&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&cache_seconds=86400" alt="MRagab22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MRagab22&show_icons=true&locale=en&theme=dark" alt="MRagab22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MRagab22&show_icons=true&locale=en&theme=dark&hide_border=false&cache_seconds=86400" alt="MRagab22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MRagab22&theme=dark" alt="MRagab22" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=MRagab22&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="MRagab22" /></p>
 
 <p align="center">
   <i>⚡ Fun fact: Great software is tested software!</i>
