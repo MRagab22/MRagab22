@@ -37,13 +37,13 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="mragab22" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mragab22&show_icons=true&locale=en&theme=dark" alt="Mohamed Ali's GitHub Stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mragab22&show_icons=true&locale=en&theme=dark" alt="mragab22" />
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohamed Ali's Top Languages" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/streak-stats?user=mragab22&theme=dark" alt="mragab22" />
+<img align="center" src="https://github-readme-streak-stats.demolab.com/?user=mragab22&theme=dark" alt="Mohamed Ali's GitHub Streak" />
 
 ---
 
