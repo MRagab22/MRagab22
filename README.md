@@ -47,7 +47,7 @@
 <div align="center">
   <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohamed Ali's Top Languages" />
   
-  <img width="10%" src="https://via.placeholder.com/1x1/00000000/00000000" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <img width="45%" src="https://streak-stats.demolab.com/?user=mragab22&theme=dark" alt="Mohamed Ali's GitHub Streak" />
 </div>
