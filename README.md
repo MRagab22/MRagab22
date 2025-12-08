@@ -10,6 +10,7 @@
 
 - 🌱 I'm currently learning **Test Automation**
 - 📫 How to reach me **mohamed.ali.ragab22@gmail.com**
+- 📫 How to reach me **mohamed.ali.ragab22@gmail.com**
 - 📍 Location **Cairo, Egypt**
 
 <h3 align="left">Connect with me:</h3>
@@ -46,6 +47,8 @@
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohamed Ali's Top Languages" />
+  
+  <img width="10%" src="https://via.placeholder.com/1x1/00000000/00000000" alt="Spacer" />
   
   <img width="45%" src="https://streak-stats.demolab.com/?user=mragab22&theme=dark" alt="Mohamed Ali's GitHub Streak" />
 </div>
