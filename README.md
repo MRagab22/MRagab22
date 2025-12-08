@@ -43,7 +43,8 @@
 
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohamed Ali's Top Languages" />
 
-<img align="center" src="https://streak-stats.demolab.com/?user=mragab22&theme=dark" alt="Mohamed Ali's GitHub Streak" />
+****
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mragab22&theme=dark" alt="Mohamed Ali's GitHub Streak" />
 
 ---
 
