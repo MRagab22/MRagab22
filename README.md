@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mragab22&show_icons=true&locale=en&theme=dark" alt="mragab22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mragab22&theme=dark" alt="mragab22" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/streak-stats?user=mragab22&theme=dark" alt="mragab22" /></p>
 
 <p align="center">
   <i>⚡ Fun fact: Great software is tested software!</i>
