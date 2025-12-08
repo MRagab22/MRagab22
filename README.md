@@ -43,13 +43,16 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mragab22&show_icons=true&locale=en&theme=dark" alt="Mohamed Ali's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohamed Ali's Top Languages" />
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img width="45%" src="https://streak-stats.demolab.com/?user=mragab22&theme=dark" alt="Mohamed Ali's GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohamed Ali's Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=mragab22&theme=dark" alt="Mohamed Ali's GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
