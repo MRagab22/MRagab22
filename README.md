@@ -39,18 +39,17 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mragab22&show_icons=true&locale=en&theme=dark" alt="Mohamed Ali's GitHub Stats" />
-</div>
-<br/>
+</p>
 
-<div align="center">
+<p align="center">
   <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohamed Ali's Top Languages" />
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <img width="45%" src="https://streak-stats.demolab.com/?user=mragab22&theme=dark" alt="Mohamed Ali's GitHub Streak" />
-</div>
+</p>
 
 ---
 
