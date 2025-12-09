@@ -44,7 +44,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohamed Ali's Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark&card_width=500" alt="Mohamed Ali's Top Languages" />
 </p>
 
 <p align="center">
