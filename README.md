@@ -12,16 +12,12 @@
 - 📫 How to reach me **mohamed.ali.ragab22@gmail.com**
 - 📍 Location **Cairo, Egypt**
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-ali-ragab-73a51024b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ali-ragab" height="30" width="40" />
   </a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,16 +37,22 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark&card_width=500" alt="Mohamed Ali's Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mragab22&show_icons=true&locale=en&theme=dark" alt="Mohamed Ali's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mragab22&show_icons=true&locale=en&theme=dark" alt="Mohamed Ali's GitHub Stats" style="margin-right: 10px;" />
-  <img src="https://streak-stats.demolab.com/?user=mragab22&theme=dark" alt="Mohamed Ali's GitHub Streak" style="margin-left: 10px;" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mragab22&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohamed Ali's Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=mragab22&theme=dark" alt="Mohamed Ali's GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
