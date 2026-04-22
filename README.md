@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=mragab22&label=Profile%20views&color=0e75b6&style=flat" alt="mragab22" />
 </p>
 
-- 🌱 I'm currently learning **Test Automation Automation & AI**
+- 🌱 I'm currently learning **Test Automation & AI**
 - 📫 How to reach me **mohamed.ali.ragab22@gmail.com**
 - 📍 Location **Cairo, Egypt**
 
