@@ -33,6 +33,11 @@
     <td><a href="https://github.com/features/actions" target="_blank" title="GitHub Actions"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/></a></td>
     <td><a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" title="Azure DevOps"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure devops" width="40" height="40"/></a></td>
     <td><a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
+    <td><a href="https://testng.org" target="_blank" title="TestNG"><img src="https://img.shields.io/badge/TestNG-E53935?style=flat&logo=testng&logoColor=white" alt="testng" height="30"/></a></td>
+    <td><a href="https://junit.org/junit5" target="_blank" title="JUnit5"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" alt="junit5" height="30"/></a></td>
+    <td><a href="https://swagger.io" target="_blank" title="Swagger"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="swagger" height="30"/></a></td>
+    <td><a href="https://wiremock.org" target="_blank" title="WireMock"><img src="https://img.shields.io/badge/WireMock-FF6600?style=flat&logoColor=white" alt="wiremock" height="30"/></a></td>
+    <td><a href="https://qameta.io/allure-report" target="_blank" title="Allure"><img src="https://img.shields.io/badge/Allure-FF69B4?style=flat&logoColor=white" alt="allure" height="30"/></a></td>
   </tr>
   <!-- Row 2: Languages, Databases & IDEs -->
   <tr>
