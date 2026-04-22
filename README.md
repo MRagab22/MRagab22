@@ -52,6 +52,7 @@
     <td><a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
     <td><a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a></td>
     <td><a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ IDEA"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/></a></td>
+    <td><a href="https://www.cursor.com" target="_blank" title="Cursor"><img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="cursor" height="30"/></a></td>
   </tr>
 </table>
 
