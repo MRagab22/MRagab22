@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 
-<h1 align="center">Software Testing & Automation Engineer</h1>
+<h3 align="center">Software Testing & Automation Engineer</h3>
 
-<h1 align="center">Bachelor's Degree in Computers & Artificial Intelligence</h1>
+<h5 align="center">Bachelor's Degree in Computers & Artificial Intelligence</h5>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mragab22&label=Profile%20views&color=0e75b6&style=flat" alt="mragab22" />
