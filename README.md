@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 
-<h2 align="center">Software Testing & Automation Engineer</h2>
+<h2 align="center">Software Test & Automation Engineer</h2>
 
 <h4 align="center">Bachelor's Degree in Computers & Artificial Intelligence</h4>
 
