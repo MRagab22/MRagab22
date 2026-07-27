@@ -28,10 +28,6 @@
     <td><a href="https://postman.com" target="_blank" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
     <td><a href="https://www.atlassian.com/software/jira" target="_blank" title="Jira"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a></td>
     <td><a href="https://maven.apache.org/" target="_blank" title="Maven"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
-    <td><a href="https://www.jenkins.io" target="_blank" title="Jenkins"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></td>
-    <td><a href="https://github.com/features/actions" target="_blank" title="GitHub Actions"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/></a></td>
-    <td><a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" title="Azure DevOps"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure devops" width="40" height="40"/></a></td>
     <td><a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
     <td><a href="https://testng.org" target="_blank" title="TestNG"><img src="https://img.shields.io/badge/TestNG-E53935?style=flat&logo=testng&logoColor=white" alt="testng" height="30"/></a></td>
     <td><a href="https://junit.org/junit5" target="_blank" title="JUnit5"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" alt="junit5" height="30"/></a></td>
