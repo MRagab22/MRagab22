@@ -27,6 +27,7 @@
     <td><a href="https://www.selenium.dev" target="_blank" title="Selenium"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a></td>
     <td><a href="https://playwright.dev" target="_blank" title="Playwright"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/></a></td>
     <td><a href="https://postman.com" target="_blank" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
+    <td><a href="https://apidog.com" target="_blank" title="Apidog"><img src="https://cdn.simpleicons.org/apidog" alt="apidog" width="40" height="40"/></a></td>
     <td><a href="https://www.atlassian.com/software/jira" target="_blank" title="Jira"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a></td>
     <td><a href="https://maven.apache.org/" target="_blank" title="Maven"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/></a></td>
     <td><a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
